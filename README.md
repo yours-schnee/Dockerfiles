@@ -1,5 +1,5 @@
 # Dockerfiles
 
-Dockerfiles for dcker hub.
+Dockerfiles for docker hub.
 
 
